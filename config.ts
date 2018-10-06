@@ -1,0 +1,1 @@
+export const REDIRECT_SITE = 'https://google.com/';
